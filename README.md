@@ -1,6 +1,10 @@
 fine tunning and human aligment(dpo, orpo)
 Human alignment has been implemented but not tested yet.
 
+For requirements, see requirements in the v4 readme.
+
+Create a directory with the name korpo_set
+
 decompress korpo_set.7z
 
 save pretrain model configuration
